@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "img": "https://m.media-amazon.com/images/M/MV5BODcwZWFiNTEtNDgzMC00ZmE2LWExMzYtNzZhZDgzNDc5NDkyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "title": "Sharknado",
+    "description": "Sharks in a tornado. It is as dumb as it sounds."
+  },
+  {
+    "id": "2",
+    "img": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "title": "Terminator 2: Judgment Day",
+    "description": "The best of the Terminator movies."
+  },
+  {
+    "id": "3",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "title": "Prometheus",
+    "description": "A movie about how Ridley Scott ruined the Alien franchise."
+  },
+  {
+    "id": "4",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTcxMDkxNTMwNl5BMl5BanBnXkFtZTcwMzc5MjUzNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "title": "Hobo with a Shotgun",
+    "description": "The title says it all."
+  }
+]
