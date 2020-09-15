@@ -1,7 +1,8 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
-import List from './Movie/List';
-import withListLoading from './Movie/withListLoading';
+import List from './Movies/MoviesList';
+import AddNewMovie from './Movies/AddNewMovie'
+import withListLoading from './Movies/withListLoading';
 import {Container, Row} from 'react-bootstrap';
 import axios from 'axios';
 
@@ -30,6 +31,10 @@ function App() {
                 <Row className="mt-5">
                     <ListLoading isLoading={appState.loading} repos={appState.repos}/>
                 </Row>
+
+                <Container className="mt-5">
+                    <AddNewMovie />
+                </Container>
             </Container>
         </div>
     );
