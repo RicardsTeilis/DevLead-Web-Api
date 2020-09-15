@@ -27,5 +27,12 @@ namespace WebApiApp
             return ProductService.GetProducts();
         }
 
+        [HttpPost]
+        [Route("/post")]
+        public Product Post(Product product)
+        {
+            return product;
+        }
+
     }
 }
